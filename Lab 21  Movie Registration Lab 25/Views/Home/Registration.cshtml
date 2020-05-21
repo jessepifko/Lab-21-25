@@ -1,0 +1,39 @@
+﻿
+<h1>Movie Registration</h1>
+
+@model Movie
+
+
+<form method="post" asp-controller="Home" asp-action="Result">
+    <p>ID</p>
+    <input type="text" name="ID" placeholder="Enter Movie ID"/>
+    <br /><br />
+    <p>Title</p>
+    <input type="text" name="Title" maxlength="50" placeholder="Enter Movie Title"/>
+    <br /><br />
+    <p>Genre</p>
+    <select name="genre" id="genre">
+        <option value="comedy">Comedy</option>
+        <option value="drama">Drama</option>
+        <option value="adventure">Adventure</option>
+        <option value="action">Action</option>
+        <option value="romantic comedy">Romantic Comedy</option>
+        <option value="crime">Crime</option>
+        <option value="thriller">Thriller</option>
+        <option value="romance">Romance</option>
+        <option value="documentary">Documentary</option>
+        <option value="animated">Animated</option>
+    </select>
+    <br /><br />
+    <p>Year</p>
+    <input type="number" min="1880" max="2020" name="Year"placeholder="Release Year" />
+    <br /><br />
+    <p>Actors</p>
+    <input type="text" name="Actors" placeholder="Enter Actors"/>
+    <br /><br />
+    <p>Directors</p>
+    <input type="text" name="Directors" placeholder="Enter Directors" />
+    <br /><br />
+    <input type="submit" />
+
+</form>
