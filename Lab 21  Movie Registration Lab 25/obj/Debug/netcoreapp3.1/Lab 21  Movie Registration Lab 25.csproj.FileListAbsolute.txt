@@ -110,3 +110,4 @@ C:\Users\Jesse\source\repos\Lab 21  Movie Registration Lab 25\Lab 21  Movie Regi
 C:\Users\Jesse\source\repos\Lab 21  Movie Registration Lab 25\Lab 21  Movie Registration Lab 25\obj\Debug\netcoreapp3.1\Lab 21  Movie Registration Lab 25.csproj.CoreCompileInputs.cache
 C:\Users\Jesse\source\repos\Lab 21  Movie Registration Lab 25\Lab 21  Movie Registration Lab 25\obj\Debug\netcoreapp3.1\Lab 21  Movie Registration Lab 25.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Jesse\source\repos\Lab 21  Movie Registration Lab 25\Lab 21  Movie Registration Lab 25\obj\Debug\netcoreapp3.1\Razor\Views\Home\Result.cshtml.g.cs
+C:\Users\Jesse\source\repos\Lab 21  Movie Registration Lab 25\Lab 21  Movie Registration Lab 25\obj\Debug\netcoreapp3.1\Razor\Views\Movie\ShowTable.cshtml.g.cs
